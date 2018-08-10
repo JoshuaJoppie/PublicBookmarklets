@@ -1,7 +1,7 @@
 # Swap Google Profiles (within current Webpage)
-This is an inject used for swapping between logged-in google accounts within the page currently being visted.
+This is an inject used for swapping between logged-in google accounts within the page currently being visited.
 
-Click the button, and watch it cycle through the current profiles that are logged in.
+ - Click the button, and watch it cycle through the current profiles that are logged in.
 
 **Setup**
 - Add each profile's ID-number to the first array.
