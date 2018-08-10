@@ -8,7 +8,7 @@ Click the button, and watch it cycle through the current profiles that are logge
 - Add to bookmarks bar.
 - Click to use.
 
-*The array is the first variable declared. Each profile is separated by a command within the square brackets.*
+*The array is the first variable declared. Each profile is separated by a comma within the square brackets.*
 
 ```js
 1: javascript:void function(){var a=[HERE, HERE, AND HERE] . . .
