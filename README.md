@@ -4,11 +4,12 @@ Welcome!
 
 This is where my bookmarklets are stored for public access.
 
-*Feel free to report any issues found \- (as I will try my best to update and fix any bugs.)*
+### Have a problem?
+*Please report any issues found \- (as I will try my best to always update scripts and fix any bugs found.)*
 
-# Features & New Snippet Requests
+### Enhancements & New Snippet Requests
 
-Feel free to use the tracker to also request features, and or entire new snippet ideas.
+Use the issue tracker to request features or entirely new snippet ideas.
  
  - *Not all requests will be accepted; but all requests will be reviewed.*
 
