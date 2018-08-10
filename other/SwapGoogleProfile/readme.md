@@ -32,7 +32,7 @@ First upload.
 
 Planned (Future) Changes
 ----
-
+ - Properly annotated (commented) lines of code.
  - Auto detect all signed in users.
 
 
