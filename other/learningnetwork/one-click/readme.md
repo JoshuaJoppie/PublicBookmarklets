@@ -1,6 +1,6 @@
 # Learning Network: One-Click
 This is an inject used for automatically completing the following E-Learning types:
-- Moonsoon Quizes
+- Monsoon Quizes
 - Scorm12 Quizes
 - GrayDuck Quizes
 
