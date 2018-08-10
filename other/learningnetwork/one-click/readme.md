@@ -1,5 +1,5 @@
 # Learning Network: One-Click
-This is an inject used for completing the following E-Learning types automatically:
+This is an inject used for automatically completing the following E-Learning types:
 - Moonsoon Quizes
 - Scorm12 Quizes
 - GrayDuck Quizes
@@ -10,6 +10,7 @@ As well as showing the correct answers on screen for the following types:
 **Setup**
 - Add "bookmark.js" as a bookmarklet, to your bookmarks bar.
 - Click bookmark to execute the script.
+  - *Quiz types will prompt for preferred scoring percentage on injection.*
 
 *(It auto detects the E-Learning type, and will proceed with the correct inject.)*
 
