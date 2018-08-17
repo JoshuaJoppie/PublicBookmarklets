@@ -1,7 +1,7 @@
 # Save Google Assistant Creations (within current Webpage view)
-This is an inject used for automatically running the mouse click even on the "Save" buttons for google assistant creations, within the page view. (Endless-scroll not yet bypassed)
+This is an inject used for automatically running the mouse click event on the "Save" buttons for google assistant creations, within the page view. (Endless-scroll not yet bypassed)
 
- - Click the button, and watch it cycle through the buttons, executing the Save.
+ - Click the button, and watch it cycle through the buttons, executing the Save event.
 
 **Setup**
 
