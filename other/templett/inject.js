@@ -19,8 +19,8 @@ switch(response) {
     case '1':
             console.log("Remove demo overlay");
             try {
-                canvasarray[0].setOverlayColor();
-                canvasarray[0].renderAll();
+                canvasarray.forEach(canvaselement => canvaselement.setOverlayColor());
+                canvasarray.forEach(canvaselement => canvaselement.renderAll());
               }
               catch(err) {
                 jjoppie_alert(err.message, "Remove Demo Overlay")
@@ -52,7 +52,10 @@ switch(response) {
             console.log("export all");
             console.log(response);
             try{
-            downloadSvg(canvasarray[0].toSVG(), "entire_Canvas.svg");
+            canvasarray.forEach((canvaselement, indexx) => {
+                downloadSvg(canvaselement.toSVG(), "entire_Canvas_"+indexx.toString() +".svg")
+            })
+    
         }
         catch(err) {
             jjoppie_alert(err.message, "Export Entire Canvas")
